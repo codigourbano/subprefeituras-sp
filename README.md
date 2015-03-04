@@ -37,7 +37,7 @@ topojson -p -o subprefeituras-sp.topojson subprefeituras-sp.geojson
 [prefectures]: http://en.wikipedia.org/wiki/Prefecture#Brazilian_equivalent_of_prefecture
 [city prefecture]: http://www.prefeitura.sp.gov.br/
 [São Paulo's subprefectures]: http://www.prefeitura.sp.gov.br/cidade/secretarias/subprefeituras/subprefeituras/index.php?p=8978
-[map preview]: https://github.com/codigo-urbano/subprefeituras-sp/blob/master/data/subprefeituras-sp-mdc.topojson
+[map preview]: https://github.com/codigo-urbano/subprefeituras-sp/blob/master/data/subprefeituras-sp.topojson
 [open an issue]: https://github.com/codigourbano/subprefeituras-sp/issues
 [São Paulo]: https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
 [Mapa Digital do Cidade web page]: http://www.prefeitura.sp.gov.br/cidade/secretarias/desenvolvimento_urbano/dados_estatisticos/index.php?p=160798
